@@ -15,4 +15,4 @@ I'm exploiting the mantra of "what gets measured gets managed" - hopefully, meas
 - If you don't know what github is - hi! welcome! this is a place where people put their code & collaborate on projects, among other things. You can see [this project's history](https://github.com/cathydeng/are-men-talking-too-much/commits/master), [discussions](https://github.com/cathydeng/are-men-talking-too-much/issues), & [contributions](https://github.com/cathydeng/are-men-talking-too-much/pulls?utf8=%E2%9C%93&q=).
 
 ### Steal this code
-Gender is only one of many flavors of diversity. Time talking is a simplistic measure of participation. You're welcome to take this code, adapt it, & produce other hacks for inclusion. I wana see what you make - please do share! [@cthydng](https://twitter.com/cthydng/)
+Gender is only one of many flavors of diversity. Time talking is a simplistic measure of participation. You're welcome to take this code, adapt it, & produce other hacks for inclusion. I wanna see what you make - please do share! [@cthydng](https://twitter.com/cthydng/)
